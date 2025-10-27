@@ -4,8 +4,6 @@ description: This resource contains information regarding exam solution.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2011/5a1b6fdb91b923ae251216399ff94dd5_MIT18_152F11_MdtrmExm_Sol.pdf
 file_size: 191447
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

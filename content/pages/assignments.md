@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the problem sets assigned for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +10,7 @@ uid: f157b1e4-bfe3-ec78-d5cf-02ca3f4a25d3
 
 Some of the problems are assigned in the required textbook:
 
-Salsa, Sandro. _Partial Differential Equations in Action: From Modelling to Theory_. Springer, 2010. ISBN: 9788847007512. \[Preview with [Google Books](http://books.google.com/books?id=ZO4y7wl4pngC&pg=PAfrontcover#v=onepage)\]
+Salsa, Sandro. _Partial Differential Equations in Action: From Modelling to Theory_. Springer, 2010. ISBN: 9788847007512. \[Preview with {{% resource_link "bd464629-78a9-4d93-a004-1b421124a82f" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}

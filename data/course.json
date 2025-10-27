@@ -22,7 +22,6 @@
     "website": "18-152-introduction-to-partial-differential-equations-fall-2011"
   },
   "course_title": "Introduction to Partial Differential Equations",
-  "hide_download": true,
   "course_description": "This course introduces three main types of partial differential equations: diffusion, elliptic, and hyperbolic. It includes mathematical tools, real-world examples and applications.\n",
   "department_numbers": [
     "18"
@@ -33,7 +32,6 @@
     "content": "c2c451ec-7f76-60e9-f1c3-2e97fa9ae192",
     "website": "18-152-introduction-to-partial-differential-equations-fall-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions",

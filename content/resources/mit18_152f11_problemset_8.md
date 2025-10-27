@@ -4,8 +4,6 @@ description: This resource contains information regarding assignments.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2011/a4c232982c4fddfa477dc116cd3c3a72_MIT18_152F11_ProblemSet_8.pdf
 file_size: 175231
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
