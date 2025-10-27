@@ -36,7 +36,7 @@ In our introduction to ii), we will study three important classes of PDEs that d
 
 ## Required Text
 
-Salsa, Sandro. _Partial Differential Equations in Action: From Modelling to Theory_. Springer, 2010. ISBN: 9788847007512. \[Preview with [Google Books](http://books.google.com/books?id=ZO4y7wl4pngC&pg=PAfrontcover#v=onepage)\]
+Salsa, Sandro. _Partial Differential Equations in Action: From Modelling to Theory_. Springer, 2010. ISBN: 9788847007512. \[Preview with {{% resource_link "bd464629-78a9-4d93-a004-1b421124a82f" "Google Books" %}}\]
 
 ## Homework Assignments
 
